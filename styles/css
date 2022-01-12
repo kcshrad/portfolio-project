@@ -1,0 +1,12 @@
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
+p {
+  font-family: "poppins", sans-serif;
+  font-weight: normal;
+}
+.id-card {
+  color: rgb(33, 54, 12);
+  font-size: 50px;
+}
