@@ -83,7 +83,7 @@ p {
     font-size: 44px;
   }
   .project-description {
-    padding: 0;
+    padding: 20px 0;
     text-align: center;
   }
 }
