@@ -39,7 +39,7 @@ p {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 100px 20px;
+  padding: 50px 20px;
 }
 .hero p {
   font-weight: bold;
@@ -69,7 +69,7 @@ p {
   font-size: 14px;
 }
 .content-container {
-  padding: 100px 20px;
+  padding: 50px 20px;
 }
 .content {
   margin: 30px;
@@ -152,9 +152,6 @@ footer .social-links a {
   transition: all 100ms ease-in-out;
 }
 @media (max-width: 900px) {
-  .hero {
-    padding: 50px 20px;
-  }
   h1 {
     font-size: 44px;
     line-height: 1.5;
@@ -162,7 +159,7 @@ footer .social-links a {
   h2 {
     font-size: 44px;
   }
-  h4 {
+  h3 {
     font-size: 26px;
   }
   .project-description {
