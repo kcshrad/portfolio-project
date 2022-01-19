@@ -157,9 +157,13 @@ footer .social-links a {
   }
   h1 {
     font-size: 44px;
+    line-height: 1.5;
   }
   h2 {
     font-size: 44px;
+  }
+  h4 {
+    font-size: 26px;
   }
   .project-description {
     padding: 20px 0;
