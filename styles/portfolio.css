@@ -26,6 +26,7 @@ h1 {
 h2 {
   font-size: 64px;
 }
+
 h4 {
   font-size: 48px;
 }
@@ -130,6 +131,7 @@ footer .contact-box {
   background-color: var(--secondary-color);
   padding: 30px 120px;
   border-radius: 10px;
+  margin: 30px 0;
 }
 footer .contact-box p {
   margin: 0;
